@@ -33,6 +33,7 @@ const CandyMachine = ({ walletAddress }) => {
 
   useEffect(() => {
     getCandyMachineState();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const getProvider = () => {
