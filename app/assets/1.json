@@ -1,0 +1,23 @@
+{
+  "name": "Party In The Clouds 02",
+  "symbol": "SUN",
+  "image": "1.png",
+  "collection": {
+    "name": "Party In The Clouds",
+    "family": "Sunshine Art"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5T2X65fdd7XRmyyzQWKh3wM9ZAw9cphJTTev6u2hhG4y",
+        "share": 100
+      }
+    ]
+  }
+}
